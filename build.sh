@@ -1,0 +1,1 @@
+gcc $( pkg-config --cflags gtk4 ) -o ./bin/gtk-example.cpp gtk-example.cpp $( pkg-config --libs gtk4 )
