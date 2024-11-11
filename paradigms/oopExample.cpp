@@ -37,6 +37,6 @@ int main()
 
     std::cout << "Fruit Name: " << apple.getName() << std::endl;
     std::cout << "Fruit Weight: " << apple.getWeight() << std::endl;
-
+    GREG::getWeight()
     return 0;
 }
